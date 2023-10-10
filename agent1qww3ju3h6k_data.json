@@ -1,0 +1,14 @@
+{
+    "count": 108,
+    "thresholds": {
+        "INR_USD": {
+            "upper": 82.0,
+            "lower": 80.0
+        }
+    },
+    "base_currency": "INR",
+    "foreign_currencies": [
+        "USD"
+    ],
+    "initialized": true
+}
